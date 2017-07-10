@@ -1,0 +1,5 @@
+c:\users\dimit\documents\visual studio 2017\Projects\Polymorphism\Shapes\bin\Debug\Shapes.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\Polymorphism\Shapes\bin\Debug\Shapes.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Polymorphism\Shapes\bin\Debug\Shapes.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\Polymorphism\Shapes\obj\Debug\Shapes.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Polymorphism\Shapes\obj\Debug\Shapes.pdb

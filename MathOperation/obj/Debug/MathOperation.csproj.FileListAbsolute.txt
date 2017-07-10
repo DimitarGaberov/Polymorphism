@@ -1,0 +1,6 @@
+c:\users\dimit\documents\visual studio 2017\Projects\Polymorphism\MathOperation\bin\Debug\MathOperation.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\Polymorphism\MathOperation\bin\Debug\MathOperation.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Polymorphism\MathOperation\bin\Debug\MathOperation.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\Polymorphism\MathOperation\obj\Debug\MathOperation.csprojResolveAssemblyReference.cache
+c:\users\dimit\documents\visual studio 2017\Projects\Polymorphism\MathOperation\obj\Debug\MathOperation.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Polymorphism\MathOperation\obj\Debug\MathOperation.pdb
